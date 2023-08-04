@@ -14,7 +14,7 @@ export default function Home() {
           marginRight: "70px",
         }}
       >
-        pit stop
+        pit stop for Solana
       </div>
     </main>
   );
